@@ -1,0 +1,3 @@
+# Computational Folklorics
+
+Some time ago, I started sketching various *storynotes* tools to support my computational (mainly search related) explorations around traditional tales. This is the next step...
